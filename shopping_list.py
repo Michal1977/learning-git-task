@@ -9,3 +9,5 @@ lista_zakupów["piekarnia"]=["chleb", "bułki"]
 print(lista_zakupów)
 lista_zakupów["warzywniak"].append("cebula")
 print(lista_zakupów["warzywniak"])
+print("")
+print("Piątek wieczór przy Pythonie... Pozdrawiam")
