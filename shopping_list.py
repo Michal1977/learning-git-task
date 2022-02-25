@@ -7,3 +7,5 @@ lista_zakupów["kiosk"]=["gazeta", "bilet"]
 print(lista_zakupów)
 lista_zakupów["piekarnia"]=["chleb", "bułki"]
 print(lista_zakupów)
+lista_zakupów["warzywniak"].append("cebula")
+print(lista_zakupów["warzywniak"])
